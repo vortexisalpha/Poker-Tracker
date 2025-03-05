@@ -1,0 +1,14 @@
+{
+    "app_name": "Poker Winnings Tracker",
+    "theme": "dark",
+    "accent_color": "#1F6AA5",
+    "data_file": "poker_data.json",
+    "google_sheet_name": "poker_winnings_tracker",
+    "google_credentials_file": "credentials.json",
+    "paypal_client_id": "",
+    "paypal_client_secret": "",
+    "paypal_mode": "sandbox",
+    "paypal_username": "YourPayPalUsername",
+    "payment_enabled": false,
+    "bank_account_name": "Your Name"
+}
