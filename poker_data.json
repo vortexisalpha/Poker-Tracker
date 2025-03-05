@@ -1,0 +1,104 @@
+{
+    "players": [
+        {
+            "id": "bc63be5d-e37b-4ec8-8b06-5979529b4abe",
+            "name": "Josh Hirschkorn"
+        },
+        {
+            "id": "495e18e3-4ce6-40d2-a7a3-892537afdd48",
+            "name": "Morris Griffin"
+        },
+        {
+            "id": "0a0e4b07-4328-4f23-a3f9-6d0723499f88",
+            "name": "Harry Draper-Barr"
+        },
+        {
+            "id": "61785ec6-40cd-46b6-a7c0-0a7957c9b2d2",
+            "name": "Max Evrad"
+        },
+        {
+            "id": "9284b4a8-7fac-449c-b8f9-89afdc1c0970",
+            "name": "Dav"
+        },
+        {
+            "id": "43dbd6be-d0a7-4519-bc71-d3d9e9957135",
+            "name": "Felix"
+        },
+        {
+            "id": "01fd15f6-821c-408d-b4a9-4f13fea9698f",
+            "name": "Theo"
+        },
+        {
+            "id": "875e6a77-a397-4848-af1b-ef6141910af5",
+            "name": "Moosh"
+        },
+        {
+            "id": "160fbef8-203c-44b7-8548-c84eeff50a8b",
+            "name": "Magnus"
+        },
+        {
+            "id": "771f9bf1-1a9c-49d2-83a6-541743aeebc9",
+            "name": "Deniz A"
+        }
+    ],
+    "sessions": [
+        {
+            "id": "a358158e-9960-4778-aace-3dcda519b67a",
+            "name": "Poker Night Pre App 1",
+            "date": "2025-03-02T20:54:51.268805",
+            "players": [
+                {
+                    "id": "bc63be5d-e37b-4ec8-8b06-5979529b4abe",
+                    "buyin": 10.0,
+                    "rebuys": 0.0,
+                    "cashout": 17.0
+                },
+                {
+                    "id": "495e18e3-4ce6-40d2-a7a3-892537afdd48",
+                    "buyin": 10.0,
+                    "rebuys": 5.55,
+                    "cashout": 0.0
+                },
+                {
+                    "id": "43dbd6be-d0a7-4519-bc71-d3d9e9957135",
+                    "buyin": 10.0,
+                    "rebuys": 0.0,
+                    "cashout": 6.0
+                },
+                {
+                    "id": "9284b4a8-7fac-449c-b8f9-89afdc1c0970",
+                    "buyin": 10.0,
+                    "rebuys": 0.0,
+                    "cashout": 25.0
+                },
+                {
+                    "id": "0a0e4b07-4328-4f23-a3f9-6d0723499f88",
+                    "buyin": 10.0,
+                    "rebuys": 10.0,
+                    "cashout": 27.55
+                },
+                {
+                    "id": "771f9bf1-1a9c-49d2-83a6-541743aeebc9",
+                    "buyin": 10.0,
+                    "rebuys": 0,
+                    "cashout": 0
+                }
+            ]
+        },
+        {
+            "id": "133654dc-defd-4c74-a119-c5903bd90f59",
+            "name": "Poker Night 03/02/2025",
+            "date": "2025-03-02T21:10:35.708645",
+            "players": [
+                {
+                    "id": "bc63be5d-e37b-4ec8-8b06-5979529b4abe",
+                    "buyin": 10.0,
+                    "rebuys": 0,
+                    "cashout": 0
+                }
+            ],
+            "status": "completed"
+        }
+    ],
+    "current_session": null
+}
